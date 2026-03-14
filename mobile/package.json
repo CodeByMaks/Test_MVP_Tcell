@@ -1,0 +1,9 @@
+{
+  "name": "telecom-mvp-mobile",
+  "version": "0.1.0",
+  "private": true,
+  "main": "App.tsx",
+  "scripts": {
+    "typecheck": "echo 'Typecheck placeholder (requires RN toolchain)'"
+  }
+}
